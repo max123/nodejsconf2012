@@ -1,17 +1,12 @@
-# Node.js 2012 Call For Proposals
+This contains the slides for my talk at NodeJSconf, Brescia, Italy, November 10, 2012.
+The directory also contains some D scripts and some node.js clients and servers
+that I use during the talk.  The echofile-server1.js script is used most
+frequently, and is the most complete of the scripts.
 
-So, you are interested in giving a talk at the most awesome Node.js
-conference in Europe?
-And what better way to submit a talk proposal than via GitHub!
+To run this, you'll need a system with DTrace.  Instructions for everything else
+are in the pdf slides.
 
-## Here is what to do
+The usual disclaimers... I have no idea of robustness of this code.  Nor do I claim to
+be a node.js expert.  Any improvements/comments/suggestions are appreciated.
 
-1. Fork this repository
-2. Copy the sample folder `example/` to `your_name-talk_name`
-3. Edit the `porposal.json` file and type a good description about your talk
-   and about yourself
-4. Create a pull request of your fork
-
-You can add any type of assets to support your proposal inside your
-folder.
-When a talk gets accepted we will press the lovely green merge button.
+max
